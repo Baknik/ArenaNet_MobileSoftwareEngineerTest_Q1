@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg6909"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ground.svg"
+   inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Sprites\ground.png"
+   inkscape:export-xdpi="35.328835"
+   inkscape:export-ydpi="35.328835">
+  <defs
+     id="defs6911" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="412.1393"
+     inkscape:cy="694.68745"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6914">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-ydpi="35.328835"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       y="724.11768"
+       x="119.90973"
+       height="61.481689"
+       width="507.77655"
+       id="rect10251"
+       style="opacity:1;fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="csccsc"
+       inkscape:connector-curvature="0"
+       id="path7492"
+       d="m 626.70961,319.89313 c 0,0 -37.96231,39.52229 -53.57732,93.18659 -16.41177,56.40218 -16.39244,99.592 -16.39244,99.592 l 17.37774,0 c 0,0 2.63844,-55.11143 11.92309,-90.93345 8.0614,-31.10225 40.66893,-101.84514 40.66893,-101.84514 z"
+       style="opacity:1;fill:#006b00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       style="opacity:1;fill:#006b00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 510.62788,323.26541 c 0,0 35.08486,31.79689 49.51633,74.97147 15.16767,45.37735 15.14982,80.12491 15.14982,80.12491 l -16.06048,0 c 0,0 -2.43847,-44.33887 -11.01937,-73.15878 -7.4503,-25.02279 -37.5863,-81.9376 -37.5863,-81.9376 z"
+       id="path7516"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       sodipodi:nodetypes="csccsc"
+       inkscape:connector-curvature="0"
+       id="path7520"
+       d="m 336.89599,380.07613 c 0,0 33.85045,29.75862 47.77411,70.1656 14.63411,42.46851 14.61687,74.98865 14.61687,74.98865 l -15.49544,0 c 0,0 -2.35271,-41.49662 -10.63166,-68.46911 -7.18822,-23.4187 -36.26388,-76.68514 -36.26388,-76.68514 z"
+       style="opacity:1;fill:#006b00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       style="opacity:1;fill:#006b00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 190.18847,312.78887 c 0,0 46.85811,41.19392 66.13224,97.12798 20.25754,58.78778 20.23364,103.80437 20.23364,103.80437 l -21.44983,0 c 0,0 -3.25672,-57.44245 -14.71703,-94.77949 -9.95045,-32.41787 -50.19902,-106.15286 -50.19902,-106.15286 z"
+       id="path7534"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       style="opacity:1;fill:#2aa000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 577.70508,286.74078 c 0,0 26.95362,39.81932 38.04048,93.88695 11.6525,56.82607 11.63876,100.3405 11.63876,100.3405 l -12.33835,0 c 0,0 -1.87332,-55.52566 -8.46552,-91.61683 -5.72366,-31.33609 -28.87537,-102.61062 -28.87537,-102.61062 z"
+       id="path7500"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 291.83042,289.67936 c 0,0 -62.23201,44.61693 -87.82989,105.19892 -26.90386,63.6728 -26.87213,112.43008 -26.87213,112.43008 l 28.48738,0 c 0,0 4.32525,-62.21565 19.54565,-102.65533 13.21508,-35.11161 66.66899,-114.97367 66.66899,-114.97367 z"
+       id="path7506"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 121.36464,311.95201 c 0,0 43.40644,39.52229 61.26078,93.18655 18.76532,56.40222 18.74321,99.59204 18.74321,99.59204 l -19.86984,0 c 0,0 -3.01683,-55.11143 -13.63296,-90.93345 -9.21745,-31.10229 -46.50119,-101.84514 -46.50119,-101.84514 z"
+       id="path7508"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       sodipodi:nodetypes="csccsc"
+       inkscape:connector-curvature="0"
+       id="path7510"
+       d="m 589.15988,334.57174 c 0,0 -44.95659,39.52229 -63.44852,93.18659 -19.43552,56.40218 -19.41262,99.592 -19.41262,99.592 l 20.57944,0 c 0,0 3.12461,-55.11147 14.11988,-90.93345 9.54659,-31.10229 48.16182,-101.84514 48.16182,-101.84514 z"
+       style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       sodipodi:nodetypes="csccsc"
+       inkscape:connector-curvature="0"
+       id="path7512"
+       d="m 470.2133,380.04318 c 0,0 33.4397,29.39752 47.19441,69.31417 14.45654,41.95314 14.43946,74.07862 14.43946,74.07862 l -15.3074,0 c 0,0 -2.32413,-40.99302 -10.50264,-67.6382 -7.10097,-23.13454 -35.82383,-75.75459 -35.82383,-75.75459 z"
+       style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       sodipodi:nodetypes="csccsc"
+       inkscape:connector-curvature="0"
+       id="path7514"
+       d="m 389.20777,348.76334 c 0,0 47.94448,35.55764 67.66548,83.83873 20.72711,50.74428 20.70268,89.60159 20.70268,89.60159 l -21.9471,0 c 0,0 -3.33225,-49.58299 -15.05826,-81.81159 -10.18111,-27.98233 -51.3628,-91.62873 -51.3628,-91.62873 z"
+       style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       style="opacity:1;fill:#2aa000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 182.65609,336.79996 c 0,0 -33.85046,29.75864 -47.7741,70.16563 -14.63413,42.46847 -14.61689,74.9886 -14.61689,74.9886 l 15.49542,0 c 0,0 2.35273,-41.4966 10.63167,-68.46909 7.18824,-23.41869 36.2639,-76.68514 36.2639,-76.68514 z"
+       id="path7518"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       sodipodi:nodetypes="csccsc"
+       inkscape:connector-curvature="0"
+       id="path7522"
+       d="m 409.20153,415.39276 c 0,0 -25.17869,22.13511 -35.53541,52.19067 -10.88516,31.58895 -10.87232,55.77812 -10.87232,55.77812 l 11.52586,0 c 0,0 1.74996,-30.86605 7.90802,-50.92876 5.34677,-17.41935 26.97385,-57.04003 26.97385,-57.04003 z"
+       style="opacity:1;fill:#2aa000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       sodipodi:nodetypes="csccsc"
+       inkscape:connector-curvature="0"
+       id="path7524"
+       d="m 487.86662,323.65837 c 0,0 -46.85812,41.19391 -66.13225,97.128 -20.25749,58.78776 -20.23362,103.80435 -20.23362,103.80435 l 21.4498,0 c 0,0 3.25674,-57.44242 14.71706,-94.77951 9.95043,-32.41785 50.19901,-106.15284 50.19901,-106.15284 z"
+       style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <g
+       id="g7554"
+       transform="matrix(3.4136333,0,0,2.6242406,-1206.629,-244.12444)"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835">
+      <path
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 476.77067,212.47037 c 0,0 -13.72676,15.69746 -19.37299,37.01185 -5.93429,22.40182 -5.92729,39.55596 -5.92729,39.55596 l 6.28357,0 c 0,0 0.95404,-21.88916 4.31126,-36.11693 2.91491,-12.35323 14.70545,-40.45088 14.70545,-40.45088 z"
+         id="path7526"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccsc" />
+      <path
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 438.54015,232.98569 c 0,0 9.91625,11.3399 13.9951,26.7375 4.28695,16.18315 4.2819,28.57536 4.2819,28.57536 l -4.53928,0 c 0,0 -0.68921,-15.81281 -3.11447,-26.09101 -2.10574,-8.924 -10.62325,-29.22185 -10.62325,-29.22185 z"
+         id="path7528"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccsc" />
+    </g>
+    <path
+       style="opacity:1;fill:#2aa000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 341.15913,369.20661 c 0,0 -33.8505,29.75864 -47.77414,70.16563 -14.63413,42.46847 -14.61688,74.98864 -14.61688,74.98864 l 15.49549,0 c 0,0 2.35265,-41.49664 10.63163,-68.46913 7.1882,-23.41869 36.2639,-76.68514 36.2639,-76.68514 z"
+       id="path7530"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       style="opacity:1;fill:#2aa000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 251.66507,397.36139 c 0,0 25.17869,22.13513 35.53542,52.19064 10.88518,31.58898 10.87235,55.77816 10.87235,55.77816 l -11.52584,0 c 0,0 -1.75001,-30.86607 -7.90808,-50.92877 -5.34675,-17.41932 -26.97385,-57.04003 -26.97385,-57.04003 z"
+       id="path7532"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       style="opacity:1;fill:#2aa000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 417.01856,294.63215 c 0,0 44.95659,39.52228 63.44857,93.18659 19.43547,56.40218 19.41257,99.592 19.41257,99.592 l -20.57943,0 c 0,0 -3.12462,-55.11143 -14.11985,-90.93345 -9.54662,-31.10225 -48.16186,-101.84514 -48.16186,-101.84514 z"
+       id="path7494"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <path
+       style="opacity:1;fill:#2aa000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 544.55944,345.83312 c 0,0 -33.43966,29.39752 -47.19437,69.31413 -14.45658,41.95314 -14.4395,74.07866 -14.4395,74.07866 l 15.30744,0 c 0,0 2.32413,-40.99306 10.5026,-67.63824 7.10101,-23.13454 35.82383,-75.75455 35.82383,-75.75455 z"
+       id="path7498"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <rect
+       y="478.66479"
+       x="119.90973"
+       height="52.303989"
+       width="507.77655"
+       id="rect7475"
+       style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+    <rect
+       style="opacity:1;fill:#502d16;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7457"
+       width="507.77655"
+       height="238.6246"
+       x="119.90973"
+       y="504.11765"
+       inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
+       inkscape:export-xdpi="35.328835"
+       inkscape:export-ydpi="35.328835" />
+  </g>
+</svg>
