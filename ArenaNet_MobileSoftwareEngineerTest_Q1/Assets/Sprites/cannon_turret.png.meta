@@ -1,12 +1,13 @@
 fileFormatVersion: 2
 guid: 669bfa3b5fd63804d96d27b4880d9755
-timeCreated: 1488942536
+timeCreated: 1488998028
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: cannon_turret_0
     21300002: cannon_turret_1
     21300004: cannon_turret_2
+    21300006: cannon_turret_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -62,7 +63,7 @@ TextureImporter:
         x: 0
         y: 306
         width: 338
-        height: 242
+        height: 243
       alignment: 9
       pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -73,11 +74,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 404
-        y: 112
+        y: 315
         width: 96
-        height: 314
+        height: 241
       alignment: 9
-      pivot: {x: 0.5, y: 0.123792365}
+      pivot: {x: 0.5, y: 0.15500486}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -91,6 +92,19 @@ TextureImporter:
         height: 242
       alignment: 9
       pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cannon_turret_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 91
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - Turret
   - Obstacle
+  - Turret Projectile
+  - Ceiling
   layers:
   - Default
   - TransparentFX
@@ -46,6 +48,9 @@ TagManager:
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Turret Projectile
+    uniqueID: 2780076175
     locked: 0
   - name: Turret
     uniqueID: 3263112129

@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class PlayerBird : MonoBehaviour {
 
 	[Header("Configuration")]
@@ -18,7 +19,7 @@ public class PlayerBird : MonoBehaviour {
 	void Start () {
 		this.flapInput = false;
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyDown(KeyCode.Space))
