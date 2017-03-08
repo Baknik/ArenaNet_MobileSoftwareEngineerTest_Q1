@@ -36,3 +36,4 @@ E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSof
 E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
 E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\obj\Debug\Assembly-CSharp-Editor.dll
 E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\obj\Debug\Assembly-CSharp-Editor.pdb
+E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Temp\bin\Debug\Assembly-CSharp.pdb

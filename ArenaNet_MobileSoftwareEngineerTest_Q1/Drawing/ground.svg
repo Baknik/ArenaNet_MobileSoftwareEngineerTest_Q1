@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="412.1393"
-     inkscape:cy="694.68745"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1039.0755"
+     inkscape:cy="863.62927"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,7 +103,7 @@
        inkscape:export-ydpi="35.328835" />
     <path
        style="opacity:1;fill:#2aa000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 577.70508,286.74078 c 0,0 26.95362,39.81932 38.04048,93.88695 11.6525,56.82607 11.63876,100.3405 11.63876,100.3405 l -12.33835,0 c 0,0 -1.87332,-55.52566 -8.46552,-91.61683 -5.72366,-31.33609 -28.87537,-102.61062 -28.87537,-102.61062 z"
+       d="m 577.70508,291.79154 c 0,0 26.95362,39.81932 38.04048,93.88695 11.6525,56.82607 11.63876,100.3405 11.63876,100.3405 l -12.33835,0 c 0,0 -1.87332,-55.52566 -8.46552,-91.61683 -5.72366,-31.33609 -28.87537,-102.61062 -28.87537,-102.61062 z"
        id="path7500"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccsc"
@@ -157,7 +157,7 @@
        inkscape:export-ydpi="35.328835" />
     <path
        style="opacity:1;fill:#2aa000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 182.65609,336.79996 c 0,0 -33.85046,29.75864 -47.7741,70.16563 -14.63413,42.46847 -14.61689,74.9886 -14.61689,74.9886 l 15.49542,0 c 0,0 2.35273,-41.4966 10.63167,-68.46909 7.18824,-23.41869 36.2639,-76.68514 36.2639,-76.68514 z"
+       d="m 182.65609,343.87103 c 0,0 -33.85046,29.75864 -47.7741,70.16563 -14.63413,42.46847 -14.61689,74.9886 -14.61689,74.9886 l 15.49542,0 c 0,0 2.35273,-41.4966 10.63167,-68.46909 7.18824,-23.41869 36.2639,-76.68514 36.2639,-76.68514 z"
        id="path7518"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccsc"
@@ -238,12 +238,12 @@
        inkscape:export-xdpi="35.328835"
        inkscape:export-ydpi="35.328835" />
     <rect
-       y="478.66479"
+       y="485.73587"
        x="119.90973"
-       height="52.303989"
+       height="45.232922"
        width="507.77655"
        id="rect7475"
-       style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="E:\My Documents\GitHub\ArenaNet_MobileSoftwareEngineerTest_Q1\ArenaNet_MobileSoftwareEngineerTest_Q1\Assets\Textures\ground.png"
        inkscape:export-xdpi="35.328835"
        inkscape:export-ydpi="35.328835" />

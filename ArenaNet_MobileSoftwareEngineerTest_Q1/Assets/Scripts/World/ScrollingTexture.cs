@@ -4,9 +4,7 @@ using System.Collections;
 public class ScrollingTexture : MonoBehaviour {
 
 	[Header("Configuration")]
-	public string SortingLayerName;
-	public int SortingOrder;
-	public float ScrollSpeed = 1.0f;
+	public float ScrollSpeed;
 
 	private MeshRenderer myMeshRenderer;
 
@@ -17,8 +15,7 @@ public class ScrollingTexture : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		this.myMeshRenderer.sortingLayerName = this.SortingLayerName;
-		this.myMeshRenderer.sortingOrder = this.SortingOrder;
+		
 	}
 	
 	// Update is called once per frame
