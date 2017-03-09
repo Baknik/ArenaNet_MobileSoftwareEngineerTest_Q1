@@ -30,7 +30,7 @@ public class CannonBall : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D other)
 	{
 		if (other.tag.Equals("Obstacle") ||
-			other.tag.Equals("Ceiling") ||
+			other.tag.Equals("Boundary") ||
 			other.tag.Equals("Player"))
 		{
 			GameObject.Destroy(this.gameObject);

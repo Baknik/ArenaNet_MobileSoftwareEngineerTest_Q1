@@ -28,7 +28,7 @@ public class Cannon : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (this.sensor != null && this.sensor.Target != null)
+		if (this.sensor != null && this.sensor.TargetInSight)
 		{
 			if ((Time.time - this.timeOfLastShot) >= this.CooldownSeconds)
 			{

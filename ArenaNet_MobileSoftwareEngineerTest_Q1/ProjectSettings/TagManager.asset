@@ -8,7 +8,9 @@ TagManager:
   - Turret
   - Obstacle
   - Turret Projectile
-  - Ceiling
+  - Boundary
+  - Projectile
+  - Score
   layers:
   - Default
   - TransparentFX
